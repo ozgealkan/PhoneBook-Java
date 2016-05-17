@@ -1,0 +1,6 @@
+2;c;c;c;Cell;4;Cell;4;;;
+3;y;y;y;Work;1;;;;;
+4;d;d;d;Work;2;Home;2;Cell;2;
+5;f;f;f;Cell;44;Cell;44;Cell;44;
+6;gg;gg;gg;Home;4;Work;4;Cell;6;
+9;u;u;u;Cell;777;;;;;
